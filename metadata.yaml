@@ -1,0 +1,31 @@
+_repo: Anecdotes-of-the-Learned-Pig-With-Notes-Critical-and-Explanatory-and-Illustrations-from-Bozzy__51017
+creator:
+  authors:
+  - agent_name: Boswell, James
+    birthdate: 1740
+    deathdate: 1795
+    gutenberg_agent_id: '659'
+    url: http://www.gutenberg.org/2009/agents/659
+    wikipedia: http://en.wikipedia.org/wiki/James_Boswell
+  - agent_name: Piozzi, Hester Lynch
+    aliases:
+    - Piozzi, Hester Lynch Salusbury Thrale
+    - Thrale, Hester Lynch
+    birthdate: 1741
+    deathdate: 1821
+    gutenberg_agent_id: '906'
+    url: http://www.gutenberg.org/2009/agents/906
+    wikipedia: http://en.wikipedia.org/wiki/Hester_Thrale
+description: ''
+gutenberg_issued: '2016-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Anecdotes of the Learned Pig
+
+  With Notes, Critical and Explanatory, and Illustrations from Bozzy, Piozzi &c. &c.'
+url: http://www.gutenberg.org/ebooks/51017
